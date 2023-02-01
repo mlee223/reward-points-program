@@ -1,0 +1,36 @@
+{
+  "files.exclude": {
+    "data/**": true,
+    "**/build": true,
+    "**/dist": true,
+    "**/node_modules": true,
+    "**/legacy": true
+  },
+  "search.exclude": {
+    "data/**": true,
+    "**/.docz": true,
+    "**/.git/**": true,
+    "**/bower_components": true,
+    "**/build/**": true,
+    "**/dist/**": true,
+    "**/node_modules/**": true,
+    "/node_modules/**": true,
+    "node_modules/**": true,
+    "**/legacy/**": true,
+    "**/*.min.*": true,
+    "**/**.svg": true,
+    "**/**.lock": true
+  },
+  "files.watcherExclude": {
+    "data/**": true,
+    "**/.docz/**": true,
+    "**/build/**": true,
+    "**/bower_components": true,
+    "**/build": true,
+    "**/dist": true,
+    "**/node_modules": true,
+    "**/legacy": true,
+    "**/*.min.*": true
+  },
+  "editor.formatOnSave": true
+}
