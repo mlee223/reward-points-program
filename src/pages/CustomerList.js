@@ -1,6 +1,4 @@
 import React from "react";
-
-// import CustomerTable from "../components/Tables/CustomerTable";
 import { api } from "../data/api";
 import { Customer } from "../components/Customer";
 
@@ -18,9 +16,8 @@ export const Customers = () => {
     fetchData();
 
     return () => {};
-  }, [setCustomers]);
+  }, []);
 
-  // return <CustomerTable customers={customers} />;
   return (
     <table>
       <thead>
@@ -32,7 +29,6 @@ export const Customers = () => {
         </tr>
       </thead>
       <tbody>
-        {/* iterate through the customers array and render a unique Customer component for each customer object in the array */}
         {customers.map((customer) => (
           <Customer key={customer.id} customer={customer} />
         ))}
