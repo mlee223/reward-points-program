@@ -1,16 +1,17 @@
 import React from "react";
 import { api } from "../data/api";
+import { useRewards } from "../contexts/RewardsContext";
 import { Transaction } from "../components/Transaction";
 
 export const Transactions = () => {
-  const [transactions, setTransactions] = React.useState([]);
+  const { transactions, updateTransactions } = useRewards();
 
   const fetchData = React.useCallback(async () => {
     const { success, payload } = await api().fetchTransactions();
     if (success) {
-      setTransactions(payload.transactions);
+      updateTransactions(payload.transactions);
     }
-  }, [setTransactions]);
+  }, [updateTransactions]);
 
   React.useEffect(() => {
     fetchData();

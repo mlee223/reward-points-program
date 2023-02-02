@@ -1,16 +1,17 @@
 import React from "react";
 import { api } from "../data/api";
+import { useRewards } from "../contexts/RewardsContext";
 import { Customer } from "../components/Customer";
 
 export const Customers = () => {
-  const [customers, setCustomers] = React.useState([]);
+  const { customers, updateCustomers } = useRewards();
 
   const fetchData = React.useCallback(async () => {
     const { success, payload } = await api().fetchCustomers();
     if (success) {
-      setCustomers(payload.customers);
+      updateCustomers(payload.customers);
     }
-  }, [setCustomers]);
+  }, [updateCustomers]);
 
   React.useEffect(() => {
     fetchData();
