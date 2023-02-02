@@ -5,7 +5,7 @@ export const Transaction = ({
 }) => {
   return (
     <tr key={id}>
-      <td>{id}</td>
+      <td className="idColumn">{id}</td>
       <td>{customerId}</td>
       <td>{`$${purchaseAmount}`}</td>
     </tr>

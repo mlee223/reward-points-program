@@ -36,3 +36,28 @@
     transform: rotate(360deg);
   }
 }
+
+table {
+  border: 2px solid forestgreen;
+  margin: 1em;
+  border-collapse: collapse;
+}
+
+th {
+  border-bottom: 2px solid #d3d3d3;
+  padding: 1em;
+}
+
+tr {
+  border-bottom: 1px solid #d3d3d3;
+}
+
+td {
+  text-align: center;
+  font-size: medium;
+  padding: 1em;
+}
+
+.idColumn {
+  text-align: left;
+}
