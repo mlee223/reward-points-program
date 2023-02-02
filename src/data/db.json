@@ -1,0 +1,739 @@
+{
+  "customers": [
+    {
+      "id": "customer_36505350-13fd-47e1-b7ad-245df10c735b",
+      "name": "Clarence Weimann",
+      "paymentInfo": "cc_1KygbmUyKLpDMhAco3PDLNSZXJqXgnuc8q",
+      "email": "Rhoda_Padberg@example.net",
+      "phone": "(965) 919-5327 x946",
+      "address": {
+        "street": "30397 Titus Mountain",
+        "city": "Kerlukechester",
+        "state": "Wyoming",
+        "country": "Honduras",
+        "zip": "90492"
+      }
+    },
+    {
+      "id": "customer_39f7c1d6-142c-4796-bcf1-3033af691bcf",
+      "name": "Sonja Sauer",
+      "paymentInfo": "cc_3V5boWyik5AkQYuNEzuPPfzuVDuCiyvryv",
+      "email": "Candace.Hodkiewicz@example.org",
+      "phone": "861-557-2659 x034",
+      "address": {
+        "street": "6395 Beahan Crossroad",
+        "city": "North Velma",
+        "state": "Maryland",
+        "country": "Saudi Arabia",
+        "zip": "53939"
+      }
+    },
+    {
+      "id": "customer_6039f485-481c-42fe-86b5-207752fc205d",
+      "name": "Stacy Jast",
+      "paymentInfo": "cc_3GpPpme11iT6J4tYckentFnHUxgXn6Y",
+      "email": "Devon37@example.net",
+      "phone": "(389) 237-3873 x137",
+      "address": {
+        "street": "14050 Archibald Meadows",
+        "city": "Blaine",
+        "state": "Washington",
+        "country": "Central African Republic",
+        "zip": "74265-7355"
+      }
+    },
+    {
+      "id": "customer_7e0c67cd-da8f-448e-9ade-74de7a74e85b",
+      "name": "Lucy Hahn",
+      "paymentInfo": "cc_3foKcMoX2FxR34b85p1Gy7beSHP8dKpD7p",
+      "email": "Thomas_Schneider@example.net",
+      "phone": "1-651-740-5860",
+      "address": {
+        "street": "93808 Nayeli Plaza",
+        "city": "West Tobin",
+        "state": "Massachusetts",
+        "country": "Cuba",
+        "zip": "29314-6024"
+      }
+    },
+    {
+      "id": "customer_67b7724b-6365-49c3-91c6-f7d2142c8f7e",
+      "name": "Spencer Emard",
+      "paymentInfo": "cc_1jM4VkmJHGGU4C19vLZNCjA9B",
+      "email": "Furman_Beier@example.org",
+      "phone": "756-571-8305 x5956",
+      "address": {
+        "street": "7507 Sister Ramp",
+        "city": "New Daron",
+        "state": "Connecticut",
+        "country": "Burkina Faso",
+        "zip": "37015-3438"
+      }
+    }
+  ],
+  "transactions": [
+    {
+      "id": "transaction_b8a4c7d5-176e-4691-b556-fbac3a1f893f",
+      "purchaseAmount": 3151,
+      "customerId": "customer_6039f485-481c-42fe-86b5-207752fc205d",
+      "createdAt": "2022-11-17T06:26:54.702Z",
+      "purchase": [
+        {
+          "product": "Handcrafted Cotton Car",
+          "price": 989,
+          "productDepartment": "Beauty",
+          "productDescription": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality"
+        },
+        {
+          "product": "Gorgeous Granite Soap",
+          "price": 172,
+          "productDepartment": "Electronics",
+          "productDescription": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients"
+        },
+        {
+          "product": "Practical Soft Table",
+          "price": 668,
+          "productDepartment": "Books",
+          "productDescription": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals"
+        },
+        {
+          "product": "Licensed Fresh Mouse",
+          "price": 452,
+          "productDepartment": "Outdoors",
+          "productDescription": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive"
+        },
+        {
+          "product": "Incredible Granite Pants",
+          "price": 870,
+          "productDepartment": "Outdoors",
+          "productDescription": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support"
+        }
+      ]
+    },
+    {
+      "id": "transaction_f084d584-c0e6-49dc-b025-a61342e12bec",
+      "purchaseAmount": 1605,
+      "customerId": "customer_67b7724b-6365-49c3-91c6-f7d2142c8f7e",
+      "createdAt": "2023-01-12T16:23:13.548Z",
+      "purchase": [
+        {
+          "product": "Handmade Granite Hat",
+          "price": 129,
+          "productDepartment": "Clothing",
+          "productDescription": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality"
+        },
+        {
+          "product": "Unbranded Soft Table",
+          "price": 734,
+          "productDepartment": "Industrial",
+          "productDescription": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support"
+        },
+        {
+          "product": "Fantastic Fresh Pants",
+          "price": 268,
+          "productDepartment": "Books",
+          "productDescription": "The Football Is Good For Training And Recreational Purposes"
+        },
+        {
+          "product": "Handcrafted Cotton Soap",
+          "price": 169,
+          "productDepartment": "Toys",
+          "productDescription": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart"
+        },
+        {
+          "product": "Incredible Concrete Chicken",
+          "price": 305,
+          "productDepartment": "Garden",
+          "productDescription": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design"
+        }
+      ]
+    },
+    {
+      "id": "transaction_5c72db4c-6aa4-4f3d-8e7b-a4cb35e91434",
+      "purchaseAmount": 758,
+      "customerId": "customer_36505350-13fd-47e1-b7ad-245df10c735b",
+      "createdAt": "2022-12-15T01:57:59.176Z",
+      "purchase": [
+        {
+          "product": "Refined Steel Shoes",
+          "price": 758,
+          "productDepartment": "Toys",
+          "productDescription": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart"
+        }
+      ]
+    },
+    {
+      "id": "transaction_c02d3274-ddb4-4713-974f-00ba93bbe534",
+      "purchaseAmount": 2494,
+      "customerId": "customer_36505350-13fd-47e1-b7ad-245df10c735b",
+      "createdAt": "2022-12-21T18:53:58.532Z",
+      "purchase": [
+        {
+          "product": "Gorgeous Granite Soap",
+          "price": 904,
+          "productDepartment": "Garden",
+          "productDescription": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit"
+        },
+        {
+          "product": "Small Metal Sausages",
+          "price": 496,
+          "productDepartment": "Garden",
+          "productDescription": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality"
+        },
+        {
+          "product": "Practical Rubber Towels",
+          "price": 286,
+          "productDepartment": "Toys",
+          "productDescription": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals"
+        },
+        {
+          "product": "Fantastic Frozen Soap",
+          "price": 808,
+          "productDepartment": "Computers",
+          "productDescription": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart"
+        }
+      ]
+    },
+    {
+      "id": "transaction_1e0930dd-a3fe-402b-aa4a-3312fb488cec",
+      "purchaseAmount": 739,
+      "customerId": "customer_7e0c67cd-da8f-448e-9ade-74de7a74e85b",
+      "createdAt": "2022-11-11T03:17:49.917Z",
+      "purchase": [
+        {
+          "product": "Practical Wooden Keyboard",
+          "price": 132,
+          "productDepartment": "Kids",
+          "productDescription": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles"
+        },
+        {
+          "product": "Rustic Frozen Towels",
+          "price": 9,
+          "productDepartment": "Books",
+          "productDescription": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients"
+        },
+        {
+          "product": "Unbranded Rubber Car",
+          "price": 271,
+          "productDepartment": "Garden",
+          "productDescription": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart"
+        },
+        {
+          "product": "Incredible Frozen Shirt",
+          "price": 327,
+          "productDepartment": "Home",
+          "productDescription": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients"
+        }
+      ]
+    },
+    {
+      "id": "transaction_ff04ef23-d740-447e-ac08-cca4293b0180",
+      "purchaseAmount": 778,
+      "customerId": "customer_7e0c67cd-da8f-448e-9ade-74de7a74e85b",
+      "createdAt": "2022-12-28T19:25:29.962Z",
+      "purchase": [
+        {
+          "product": "Incredible Steel Bike",
+          "price": 778,
+          "productDepartment": "Electronics",
+          "productDescription": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit"
+        }
+      ]
+    },
+    {
+      "id": "transaction_aabe4e4b-188c-4ec6-9cf5-f61a000e81fe",
+      "purchaseAmount": 1409,
+      "customerId": "customer_39f7c1d6-142c-4796-bcf1-3033af691bcf",
+      "createdAt": "2023-01-20T09:17:18.517Z",
+      "purchase": [
+        {
+          "product": "Gorgeous Soft Chips",
+          "price": 790,
+          "productDepartment": "Garden",
+          "productDescription": "The Football Is Good For Training And Recreational Purposes"
+        },
+        {
+          "product": "Fantastic Metal Car",
+          "price": 619,
+          "productDepartment": "Outdoors",
+          "productDescription": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support"
+        }
+      ]
+    },
+    {
+      "id": "transaction_79ee4962-3930-4345-903a-51ca7caaf580",
+      "purchaseAmount": 2786,
+      "customerId": "customer_36505350-13fd-47e1-b7ad-245df10c735b",
+      "createdAt": "2022-11-15T20:45:15.965Z",
+      "purchase": [
+        {
+          "product": "Awesome Cotton Mouse",
+          "price": 863,
+          "productDepartment": "Jewelery",
+          "productDescription": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles"
+        },
+        {
+          "product": "Awesome Steel Computer",
+          "price": 394,
+          "productDepartment": "Computers",
+          "productDescription": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support"
+        },
+        {
+          "product": "Gorgeous Rubber Pants",
+          "price": 559,
+          "productDepartment": "Movies",
+          "productDescription": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality"
+        },
+        {
+          "product": "Awesome Granite Ball",
+          "price": 970,
+          "productDepartment": "Sports",
+          "productDescription": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit"
+        }
+      ]
+    },
+    {
+      "id": "transaction_70164f46-5a4f-41fe-873c-42503f4e2c4e",
+      "purchaseAmount": 1360,
+      "customerId": "customer_39f7c1d6-142c-4796-bcf1-3033af691bcf",
+      "createdAt": "2022-11-21T07:46:40.012Z",
+      "purchase": [
+        {
+          "product": "Generic Rubber Pizza",
+          "price": 709,
+          "productDepartment": "Games",
+          "productDescription": "The Football Is Good For Training And Recreational Purposes"
+        },
+        {
+          "product": "Handcrafted Steel Car",
+          "price": 651,
+          "productDepartment": "Shoes",
+          "productDescription": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016"
+        }
+      ]
+    },
+    {
+      "id": "transaction_b07c02e1-6c76-4b12-9d51-ab11220dff35",
+      "purchaseAmount": 600,
+      "customerId": "customer_67b7724b-6365-49c3-91c6-f7d2142c8f7e",
+      "createdAt": "2022-12-11T12:21:50.924Z",
+      "purchase": [
+        {
+          "product": "Handcrafted Frozen Sausages",
+          "price": 472,
+          "productDepartment": "Computers",
+          "productDescription": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit"
+        },
+        {
+          "product": "Small Fresh Towels",
+          "price": 128,
+          "productDepartment": "Automotive",
+          "productDescription": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J"
+        }
+      ]
+    },
+    {
+      "id": "transaction_5a391c4c-5e40-488a-b48f-06190c4fb7f7",
+      "purchaseAmount": 1299,
+      "customerId": "customer_67b7724b-6365-49c3-91c6-f7d2142c8f7e",
+      "createdAt": "2023-01-12T17:14:46.295Z",
+      "purchase": [
+        {
+          "product": "Handcrafted Wooden Ball",
+          "price": 313,
+          "productDepartment": "Automotive",
+          "productDescription": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive"
+        },
+        {
+          "product": "Licensed Rubber Fish",
+          "price": 986,
+          "productDepartment": "Toys",
+          "productDescription": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design"
+        }
+      ]
+    },
+    {
+      "id": "transaction_3b5ea789-d97f-4670-8559-d3fefbe39b3a",
+      "purchaseAmount": 1423,
+      "customerId": "customer_7e0c67cd-da8f-448e-9ade-74de7a74e85b",
+      "createdAt": "2023-01-28T00:59:50.855Z",
+      "purchase": [
+        {
+          "product": "Small Frozen Bacon",
+          "price": 551,
+          "productDepartment": "Shoes",
+          "productDescription": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive"
+        },
+        {
+          "product": "Gorgeous Frozen Mouse",
+          "price": 872,
+          "productDepartment": "Books",
+          "productDescription": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients"
+        }
+      ]
+    },
+    {
+      "id": "transaction_4d7cbf94-8e24-4f1f-9238-499470d4bcac",
+      "purchaseAmount": 2252,
+      "customerId": "customer_6039f485-481c-42fe-86b5-207752fc205d",
+      "createdAt": "2022-11-12T08:43:48.003Z",
+      "purchase": [
+        {
+          "product": "Generic Concrete Chair",
+          "price": 526,
+          "productDepartment": "Automotive",
+          "productDescription": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016"
+        },
+        {
+          "product": "Fantastic Concrete Cheese",
+          "price": 404,
+          "productDepartment": "Automotive",
+          "productDescription": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive"
+        },
+        {
+          "product": "Intelligent Granite Table",
+          "price": 685,
+          "productDepartment": "Games",
+          "productDescription": "The Football Is Good For Training And Recreational Purposes"
+        },
+        {
+          "product": "Awesome Steel Chair",
+          "price": 637,
+          "productDepartment": "Tools",
+          "productDescription": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design"
+        }
+      ]
+    },
+    {
+      "id": "transaction_7b645756-9a49-44e4-a397-40a420bab388",
+      "purchaseAmount": 3101,
+      "customerId": "customer_6039f485-481c-42fe-86b5-207752fc205d",
+      "createdAt": "2023-01-14T14:10:05.810Z",
+      "purchase": [
+        {
+          "product": "Ergonomic Plastic Mouse",
+          "price": 903,
+          "productDepartment": "Movies",
+          "productDescription": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive"
+        },
+        {
+          "product": "Ergonomic Plastic Hat",
+          "price": 399,
+          "productDepartment": "Games",
+          "productDescription": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive"
+        },
+        {
+          "product": "Tasty Cotton Bacon",
+          "price": 612,
+          "productDepartment": "Jewelery",
+          "productDescription": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit"
+        },
+        {
+          "product": "Handcrafted Frozen Keyboard",
+          "price": 958,
+          "productDepartment": "Garden",
+          "productDescription": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design"
+        },
+        {
+          "product": "Gorgeous Plastic Keyboard",
+          "price": 229,
+          "productDepartment": "Music",
+          "productDescription": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive"
+        }
+      ]
+    },
+    {
+      "id": "transaction_0314f66d-0395-4915-b580-d96cd4701ada",
+      "purchaseAmount": 1416,
+      "customerId": "customer_67b7724b-6365-49c3-91c6-f7d2142c8f7e",
+      "createdAt": "2022-12-27T14:13:55.486Z",
+      "purchase": [
+        {
+          "product": "Licensed Cotton Ball",
+          "price": 381,
+          "productDepartment": "Clothing",
+          "productDescription": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals"
+        },
+        {
+          "product": "Handmade Cotton Mouse",
+          "price": 463,
+          "productDepartment": "Home",
+          "productDescription": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016"
+        },
+        {
+          "product": "Incredible Cotton Chips",
+          "price": 517,
+          "productDepartment": "Electronics",
+          "productDescription": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive"
+        },
+        {
+          "product": "Gorgeous Steel Chair",
+          "price": 55,
+          "productDepartment": "Tools",
+          "productDescription": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality"
+        }
+      ]
+    },
+    {
+      "id": "transaction_45d13fee-17ed-46b8-8f58-f94c32cbab67",
+      "purchaseAmount": 2475,
+      "customerId": "customer_36505350-13fd-47e1-b7ad-245df10c735b",
+      "createdAt": "2023-01-04T04:36:04.746Z",
+      "purchase": [
+        {
+          "product": "Sleek Cotton Soap",
+          "price": 761,
+          "productDepartment": "Garden",
+          "productDescription": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals"
+        },
+        {
+          "product": "Tasty Cotton Shirt",
+          "price": 973,
+          "productDepartment": "Movies",
+          "productDescription": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients"
+        },
+        {
+          "product": "Fantastic Steel Tuna",
+          "price": 185,
+          "productDepartment": "Automotive",
+          "productDescription": "The Football Is Good For Training And Recreational Purposes"
+        },
+        {
+          "product": "Small Rubber Tuna",
+          "price": 498,
+          "productDepartment": "Clothing",
+          "productDescription": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality"
+        },
+        {
+          "product": "Fantastic Steel Table",
+          "price": 58,
+          "productDepartment": "Music",
+          "productDescription": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit"
+        }
+      ]
+    },
+    {
+      "id": "transaction_815384b9-1c1f-4de5-9f5c-a08eb6346fc7",
+      "purchaseAmount": 1829,
+      "customerId": "customer_39f7c1d6-142c-4796-bcf1-3033af691bcf",
+      "createdAt": "2022-11-04T23:17:49.870Z",
+      "purchase": [
+        {
+          "product": "Incredible Steel Fish",
+          "price": 221,
+          "productDepartment": "Home",
+          "productDescription": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles"
+        },
+        {
+          "product": "Unbranded Wooden Gloves",
+          "price": 668,
+          "productDepartment": "Books",
+          "productDescription": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients"
+        },
+        {
+          "product": "Refined Metal Table",
+          "price": 109,
+          "productDepartment": "Music",
+          "productDescription": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart"
+        },
+        {
+          "product": "Awesome Frozen Computer",
+          "price": 43,
+          "productDepartment": "Music",
+          "productDescription": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design"
+        },
+        {
+          "product": "Sleek Rubber Towels",
+          "price": 788,
+          "productDepartment": "Beauty",
+          "productDescription": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J"
+        }
+      ]
+    },
+    {
+      "id": "transaction_8be67cd3-7b18-4e6c-94d1-f63358d4cfc7",
+      "purchaseAmount": 902,
+      "customerId": "customer_6039f485-481c-42fe-86b5-207752fc205d",
+      "createdAt": "2022-11-16T02:31:01.422Z",
+      "purchase": [
+        {
+          "product": "Tasty Frozen Pizza",
+          "price": 764,
+          "productDepartment": "Baby",
+          "productDescription": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016"
+        },
+        {
+          "product": "Awesome Frozen Cheese",
+          "price": 11,
+          "productDepartment": "Games",
+          "productDescription": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016"
+        },
+        {
+          "product": "Handmade Granite Keyboard",
+          "price": 127,
+          "productDepartment": "Home",
+          "productDescription": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals"
+        }
+      ]
+    },
+    {
+      "id": "transaction_578d22b6-9f6e-4a23-a1b0-cb9543a0802a",
+      "purchaseAmount": 541,
+      "customerId": "customer_39f7c1d6-142c-4796-bcf1-3033af691bcf",
+      "createdAt": "2023-01-02T00:45:36.187Z",
+      "purchase": [
+        {
+          "product": "Handcrafted Cotton Table",
+          "price": 110,
+          "productDepartment": "Beauty",
+          "productDescription": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles"
+        },
+        {
+          "product": "Licensed Wooden Gloves",
+          "price": 431,
+          "productDepartment": "Baby",
+          "productDescription": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016"
+        }
+      ]
+    },
+    {
+      "id": "transaction_80bc05d9-ee2f-4598-92ca-92068ec63827",
+      "purchaseAmount": 760,
+      "customerId": "customer_36505350-13fd-47e1-b7ad-245df10c735b",
+      "createdAt": "2022-11-26T12:07:38.190Z",
+      "purchase": [
+        {
+          "product": "Incredible Frozen Pants",
+          "price": 760,
+          "productDepartment": "Beauty",
+          "productDescription": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support"
+        }
+      ]
+    },
+    {
+      "id": "transaction_c609276d-b56b-47ab-9c41-92ca6fec22af",
+      "purchaseAmount": 956,
+      "customerId": "customer_6039f485-481c-42fe-86b5-207752fc205d",
+      "createdAt": "2022-11-25T03:56:00.195Z",
+      "purchase": [
+        {
+          "product": "Gorgeous Rubber Salad",
+          "price": 228,
+          "productDepartment": "Industrial",
+          "productDescription": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J"
+        },
+        {
+          "product": "Gorgeous Soft Computer",
+          "price": 161,
+          "productDepartment": "Automotive",
+          "productDescription": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design"
+        },
+        {
+          "product": "Handmade Granite Towels",
+          "price": 567,
+          "productDepartment": "Computers",
+          "productDescription": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support"
+        }
+      ]
+    },
+    {
+      "id": "transaction_4ccc8804-76b7-4371-9b3a-334df4a81bd5",
+      "purchaseAmount": 1787,
+      "customerId": "customer_7e0c67cd-da8f-448e-9ade-74de7a74e85b",
+      "createdAt": "2022-11-29T21:17:43.427Z",
+      "purchase": [
+        {
+          "product": "Fantastic Granite Gloves",
+          "price": 825,
+          "productDepartment": "Health",
+          "productDescription": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support"
+        },
+        {
+          "product": "Generic Fresh Computer",
+          "price": 466,
+          "productDepartment": "Industrial",
+          "productDescription": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart"
+        },
+        {
+          "product": "Handmade Metal Computer",
+          "price": 496,
+          "productDepartment": "Garden",
+          "productDescription": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients"
+        }
+      ]
+    },
+    {
+      "id": "transaction_61d25619-80d1-4da1-a08d-f7795a71663c",
+      "purchaseAmount": 2319,
+      "customerId": "customer_7e0c67cd-da8f-448e-9ade-74de7a74e85b",
+      "createdAt": "2023-01-02T06:22:58.391Z",
+      "purchase": [
+        {
+          "product": "Licensed Metal Bike",
+          "price": 482,
+          "productDepartment": "Grocery",
+          "productDescription": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles"
+        },
+        {
+          "product": "Awesome Concrete Tuna",
+          "price": 556,
+          "productDepartment": "Health",
+          "productDescription": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit"
+        },
+        {
+          "product": "Rustic Plastic Soap",
+          "price": 452,
+          "productDepartment": "Books",
+          "productDescription": "The Football Is Good For Training And Recreational Purposes"
+        },
+        {
+          "product": "Small Wooden Ball",
+          "price": 829,
+          "productDepartment": "Shoes",
+          "productDescription": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles"
+        }
+      ]
+    },
+    {
+      "id": "transaction_1844eecd-5333-4f1a-b2b2-6943e9f99825",
+      "purchaseAmount": 441,
+      "customerId": "customer_67b7724b-6365-49c3-91c6-f7d2142c8f7e",
+      "createdAt": "2022-11-30T05:40:24.208Z",
+      "purchase": [
+        {
+          "product": "Refined Cotton Salad",
+          "price": 309,
+          "productDepartment": "Shoes",
+          "productDescription": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support"
+        },
+        {
+          "product": "Refined Wooden Computer",
+          "price": 132,
+          "productDepartment": "Electronics",
+          "productDescription": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart"
+        }
+      ]
+    },
+    {
+      "id": "transaction_0a37c6f0-8451-4333-b739-ab1315068f24",
+      "purchaseAmount": 1528,
+      "customerId": "customer_7e0c67cd-da8f-448e-9ade-74de7a74e85b",
+      "createdAt": "2022-12-20T19:42:44.901Z",
+      "purchase": [
+        {
+          "product": "Fantastic Steel Towels",
+          "price": 957,
+          "productDepartment": "Sports",
+          "productDescription": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles"
+        },
+        {
+          "product": "Licensed Plastic Fish",
+          "price": 571,
+          "productDepartment": "Grocery",
+          "productDescription": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart"
+        }
+      ]
+    }
+  ],
+  "rewards": []
+}
