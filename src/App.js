@@ -1,15 +1,14 @@
 import "./App.css";
+import "bootstrap/dist/css/bootstrap.min.css";
 import { RewardsProvider } from "./contexts/RewardsContext";
-import { Customers } from "./pages/CustomerList";
-import { Transactions } from "./pages/TransactionList";
+import { Home } from "./pages/Home";
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
         <RewardsProvider>
-          <Customers />
-          <Transactions />
+          <Home />
         </RewardsProvider>
       </header>
     </div>
