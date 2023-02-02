@@ -9,7 +9,7 @@ const CustomerTableRow = ({
   const rewards = useRewardsSelector(id);
 
   return (
-    <tr key={id} onClick={() => onClick(id)}>
+    <tr key={id} data-testid="customer" onClick={() => onClick(id)}>
       <td className="idColumn">{id}</td>
       <td>{name}</td>
       <td>{email}</td>
